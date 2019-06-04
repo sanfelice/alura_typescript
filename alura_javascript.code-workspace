@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "ecmascript6"
+		},
+		{
+			"path": "/home/ricardosanfelice/projetos/pessoal/Sistema de Gerenciamento Rural/material-dashboard-angular2-master"
 		}
 	],
 	"settings": {}
